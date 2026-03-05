@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Prem Sai Nayudu 👋
 
-<!--
-**PremSai98160/PremSai98160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 3+ years of experience building 
+data pipelines, dashboards, and predictive models 
+that drive real business decisions.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, SQL, R
+- **Visualization:** Tableau, Power BI, Matplotlib
+- **Databases:** MySQL, PostgreSQL
+- **ML:** Scikit-learn, Pandas, NumPy
+- **Cloud:** AWS (S3, EC2, Lambda)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+| Project | Tools | Description |
+|---|---|---|
+| E-Commerce Sales Intelligence | SQL, PostgreSQL | Business insights from 100K+ orders |
+| Retail Store Performance | Python, Pandas | End-to-end EDA with business recommendations |
+| HR Analytics Dashboard | Python, SQL, Tableau | Live dashboard tracking attrition and retention |
+| Customer Churn Prediction | Python, Scikit-learn | ML model achieving XX% accuracy |
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/premsainayudu)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:premsainayudu1@gmail.com)
